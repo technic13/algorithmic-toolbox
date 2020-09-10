@@ -1,1 +1,1 @@
-Algorithmic Toolbox Course
+# Algorithmic Course Tasks
